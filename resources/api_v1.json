@@ -42,6 +42,14 @@
     }
   ],
   "trending": [
+    "Nature",
+    "Galaxy",
+    "Space",
+    "Sky",
+    "Cute",
+    "Sport"
+  ],
+  "sources": [
     "https://backiee.com/categories/",
     "https://wallpapers.com/"
   ]
