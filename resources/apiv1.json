@@ -1,0 +1,48 @@
+{
+  "categories": [
+    {
+      "name": "MINIMAL",
+      "image": "https://raw.githubusercontent.com/tdkms/Pictoria/main/resources/category_minimal.jpg",
+      "color": "#5776A8"
+    },
+    {
+      "name": "SPACE",
+      "image": "https://raw.githubusercontent.com/tdkms/Pictoria/main/resources/category_space.jpeg",
+      "color": "#C64BDB"
+    },
+    {
+      "name": "NATURE",
+      "image": "https://raw.githubusercontent.com/tdkms/Pictoria/main/resources/category_car.jpeg",
+      "color": "#009688"
+    },
+    {
+      "name": "ANIME",
+      "image": "https://raw.githubusercontent.com/tdkms/Pictoria/main/resources/category_anime.jpg",
+      "color": "#507DC0"
+    },
+    {
+      "name": "SPORTS",
+      "image": "https://raw.githubusercontent.com/tdkms/Pictoria/main/resources/category_sports.jpg",
+      "color": "#6BB438"
+    },
+    {
+      "name": "ANIMALS",
+      "image": "https://4kwallpapers.com/images/walls/thumbs_2t/13251.jpg",
+      "color": "#7C441C"
+    },
+    {
+      "name": "Cars",
+      "image": "https://",
+      "color": "#88ADB9"
+    },
+    {
+      "name": "",
+      "image": "",
+      "color": "#FFFFFF"
+    }
+  ],
+  "trending": [
+    "https://backiee.com/categories/",
+    "https://wallpapers.com/"
+  ]
+}
