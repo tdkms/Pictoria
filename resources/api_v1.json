@@ -50,7 +50,7 @@
     "Sport"
   ],
   "sources": [
-    "https://backiee.com/categories/",
-    "https://wallpapers.com/"
+    "https://backiee.com/categories/$CategoryName?page=$PageNumber",
+    "https://wallpapers.com/$CategoryName?page=$PageNumber"
   ]
 }
